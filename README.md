@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Richy%20Johannes&fontSize=55&fontAlignY=35&animation=twinkling&desc=Personal%20Archive%20%26%20Legacy%20Profile&descAlignY=55&descSize=16" width="100%" alt="Richy Johannes Header Banner" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Richy%20Johannes&fontSize=55&fontAlignY=35&animation=twinkling&desc=Personal%20Archive%20%26%20Legacy%20Profile&descAlignY=55&descSize=16" width="100%" alt="Richy Johannes Header Banner" /> -->
 
 <br><br>
 
-[![Status: Legacy Archive](https://img.shields.io/badge/Status-Legacy_Archive-373e47?style=for-the-badge&logo=github)](https://github.com/richyjohannes)
-[![Active Profile: jr-repository](https://img.shields.io/badge/Active_Profile-@jr--repository-0969da?style=for-the-badge&logo=github)](https://github.com/jr-repository)
+[![Repositories](https://img.shields.io/badge/📁_Active_Repositories-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=repositories)
+[![Projects](https://img.shields.io/badge/📊_Active_Projects-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=projects)
+[![Overview](https://img.shields.io/badge/🌐_Profile_Overview-1f6feb?style=for-the-badge)](https://github.com/jr-repository)
 
 <br><br>
 
@@ -39,10 +40,8 @@ Navigate directly to the active sections of my main profile:
 
 <div align="center">
 
-[![Repositories](https://img.shields.io/badge/📁_Active_Repositories-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=repositories)
-[![Projects](https://img.shields.io/badge/📊_Active_Projects-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=projects)
-[![Overview](https://img.shields.io/badge/🌐_Profile_Overview-1f6feb?style=for-the-badge)](https://github.com/jr-repository)
-
+[![Status: Legacy Archive](https://img.shields.io/badge/Status-Legacy_Archive-373e47?style=for-the-badge&logo=github)](https://github.com/richyjohannes)
+[![Active Profile: jr-repository](https://img.shields.io/badge/Active_Profile-@jr--repository-0969da?style=for-the-badge&logo=github)](https://github.com/jr-repository)
 </div>
 
 <br>
