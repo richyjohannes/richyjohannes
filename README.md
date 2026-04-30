@@ -1,60 +1,45 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Richy%20Johannes&fontSize=55&fontAlignY=35&animation=twinkling&desc=Personal%20Archive%20%26%20Legacy%20Profile&descAlignY=55&descSize=16" width="100%" alt="Richy Johannes Header Banner" /> -->
+<a href="https://github.com/jr-repository">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0969da,8957e5&height=250&section=header&text=PROFILE%20RELOCATED&fontSize=60&fontColor=ffffff&desc=Click%20here%20to%20visit%20my%20active%20workspace:%20@jr-repository&descSize=22&descAlignY=68" width="100%" alt="Profile Relocated - Click to visit jr-repository" />
+</a>
+
+<br>
+
+<h2>!! Legacy Archive Notice !!</h2>
+
+<p>Welcome! You have landed on my personal archive (<b>richyjohannes</b>).<br>To maintain a cleaner and more focused development environment, all my open-source contributions, <br>professional portfolio, and active projects have been consolidated.</p>
+
+<br>
+
+<p><b>All active development is now strictly maintained at:</b></p>
+
+<a href="https://github.com/jr-repository" style="text-decoration: none;">
+  <h1>➔ <code>@jr-repository</code></h1>
+</a>
+
+<br>
+
+<a href="https://github.com/jr-repository">
+  <img src="https://img.shields.io/badge/🚀_ACCESS_ACTIVE_WORKSPACE-jr--repository-0969DA?style=for-the-badge&logo=github&logoColor=white" height="55" alt="Access Active Workspace" />
+</a>
 
 <br><br>
 
-[![Repositories](https://img.shields.io/badge/📁_Active_Repositories-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=repositories)
-[![Projects](https://img.shields.io/badge/📊_Active_Projects-1f6feb?style=for-the-badge)](https://github.com/jr-repository?tab=projects)
-[![Overview](https://img.shields.io/badge/🌐_Profile_Overview-1f6feb?style=for-the-badge)](https://github.com/jr-repository)
+### Quick Navigation
+
+Navigate directly to the active sections of my primary profile:
+
+<br>
+
+[![Main Profile](https://img.shields.io/badge/1._Go_To_Profile-000000?style=for-the-badge&logo=github)](https://github.com/jr-repository)
+[![Repositories](https://img.shields.io/badge/2._View_Repositories-238636?style=for-the-badge&logo=git)](https://github.com/jr-repository?tab=repositories)
+[![Projects](https://img.shields.io/badge/3._Check_Projects-8957E5?style=for-the-badge&logo=githubactions)](https://github.com/jr-repository?tab=projects)
 
 <br><br>
-
-<h2>👋 Welcome to my Personal GitHub</h2>
-
-<p>This account serves as my personal archive and digital identity placeholder.<br>All of my <b>latest public projects, professional contributions, and active repositories</b><br>have been migrated to my primary development account.</p>
-
-<br>
-
-<table border="0" style="border-radius: 10px; overflow: hidden;">
-  <tr>
-    <td align="center" width="800" style="padding: 30px;">
-      <h3>🚀 Main Development Account</h3>
-      <p>To view my active workspace, ongoing projects, and recent commits, please head over to my primary repository:</p>
-      <br>
-      <a href="https://github.com/jr-repository">
-        <img src="https://img.shields.io/badge/Access_Primary_Account-jr--repository-2ea043?style=for-the-badge&logo=github&logoColor=white" alt="jr-repository" />
-      </a>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-</div>
-
-### 🧭 Quick Access
-
-Navigate directly to the active sections of my main profile:
-
-<div align="center">
-
-[![Status: Legacy Archive](https://img.shields.io/badge/Status-Legacy_Archive-373e47?style=for-the-badge&logo=github)](https://github.com/richyjohannes)
-[![Active Profile: jr-repository](https://img.shields.io/badge/Active_Profile-@jr--repository-0969da?style=for-the-badge&logo=github)](https://github.com/jr-repository)
-</div>
-
-<br>
 
 ---
 
-### 📌 Notes
+<p style="color: gray;"><i>Please ensure all tags, reviews, and collaboration requests are directed to the active account above.<br>Thank you for stopping by!</i></p>
 
-> **Why maintain this profile?**
-> The `richyjohannes` profile remains active strictly as a legacy archive to preserve my foundational commits, personal identity, and coding history. Migrating and operating primarily from [`@jr-repository`](https://github.com/jr-repository) allows me to maintain a more streamlined, professional, and organized development environment for both open-source and professional work.
-
-<br>
-
-<div align="center">
-  <p><i>Thank you for visiting! I look forward to connecting with you on my active profile.</i></p>
 </div>
